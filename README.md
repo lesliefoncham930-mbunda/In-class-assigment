@@ -258,7 +258,7 @@ hold off;
 % *Touching coins:* in coins.png the coins do not touch, so each one gets its own
 % label and the count matches the number of coins. If two coins touched, they
 % would merge into one connected region and be counted as one large coin; a
-% watershed split would then be needed.<img width="1920" height="1080" alt="Screenshot (173)" src="https://github.com/user-attachments/assets/11ae29f1-718b-4fb2-aa80-6e1b48652beb" />
+
 
 <img width="1920" height="1080" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/0638663c-8f9c-4908-9c28-657030eda6ec" />
 <img width="1920" height="1080" alt="Screenshot (170)" src="https://github.com/user-attachments/assets/dcdfac6a-754c-450e-ab95-8c6822a39f2e" />
